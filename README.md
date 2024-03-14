@@ -29,7 +29,7 @@ Explore the prediction results and gain insights into the factors influencing su
 # Step 6: Conclusion:
 Our Titanic Survival Prediction Project offers a valuable tool for understanding the dynamics of survival during the Titanic disaster. By exploring the project on GitHub and interacting with the Streamlit app, users can delve into the fascinating world of data analysis and machine learning while gaining insights into historical events.
 
-
+If you have found this project helpful and enjoyable, please consider giving it a star. Your feedback drives us forward and helps others discover the project too. Thank you for being part of our journey
 
 #MachineLearning #DataScience #TitanicSurvivalPrediction #Streamlit #DataPreprocessing
 
